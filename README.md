@@ -45,3 +45,8 @@ md5List := []string{"fbfeb6772173fef2213992db05377231", "49150f7bfd879fe03a2f7d1
 ## Stargazers over time
 
 [![Stargazers over time](https://starchart.cc/intbjw/bimg-shellcode-loader.svg)](https://starchart.cc/intbjw/bimg-shellcode-loader)
+
+#### Visitors (Since 2023/08/01)
+<div>
+<img align="left" src="https://count.getloli.com/get/@bimg-shellcode-loader?theme=rule34">
+</div>
