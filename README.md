@@ -41,7 +41,11 @@ md5List := []string{"fbfeb6772173fef2213992db05377231", "49150f7bfd879fe03a2f7d1
 ![img_1.png](doc/img5.png)
 ![img.png](doc/img6.png)
 
+火绒
+![img8.jpeg](doc%2Fimg8.jpeg)
 
+virscan扫描结果
+![img7.png](doc%2Fimg7.png)
 ## Stargazers over time
 
 [![Stargazers over time](https://starchart.cc/intbjw/bimg-shellcode-loader.svg)](https://starchart.cc/intbjw/bimg-shellcode-loader)

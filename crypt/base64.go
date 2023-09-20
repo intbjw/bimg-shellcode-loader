@@ -37,12 +37,12 @@ func ShuffleString(s string) string {
 	runes := []rune(s)
 
 	// 打乱rune数组顺序
-	for i := len(runes) - 1; i > 0; i-- {
-		j := i - 1
-		if j < 0 {
-			j = 0
+	for inter := len(runes) - 1; inter > 0; inter-- {
+		jnter := inter - 1
+		if jnter < 0 {
+			jnter = 0
 		}
-		runes[i], runes[j] = runes[j], runes[i]
+		runes[inter], runes[jnter] = runes[jnter], runes[inter]
 	}
 
 	// 将rune数组转换为字符串
