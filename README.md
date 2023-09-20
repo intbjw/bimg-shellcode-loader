@@ -49,3 +49,8 @@ virscan扫描结果
 ## Stargazers over time
 
 [![Stargazers over time](https://starchart.cc/intbjw/bimg-shellcode-loader.svg)](https://starchart.cc/intbjw/bimg-shellcode-loader)
+
+#### Visitors (Since 2023/08/01)
+<div>
+<img align="left" src="https://count.getloli.com/get/@bimg-shellcode-loader?theme=rule34">
+</div>
